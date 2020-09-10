@@ -1,0 +1,23 @@
+body {background-color: #ffe74c;}
+h1 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #5fed82;}
+p{line-height: 1.5;color: #00e5ff}
+.info1 {font-family: Tahoma; background-color: #8c00ff; width:85%; text-align: left; padding: 25px 50px 50px 50px;
+border-radius: 50px 50px 50px 50px; margin: 100px 100px 100px 100px}
+.pic1{background-image: url(../s2.jpg); width: calc(100%-120px); height:1000px; padding: 20px 40px 60px 80px;background-size: cover;background-position: bottom;border-radius: 25px 25px 25px 25px;}
+.text3{
+    background-color: #35A7FF; padding: 15px 35px 35px 35px; border-radius: 100px 100px 100px 100px;
+    background-image: url(../spx1.jpg);
+    height: 500px;
+    background-size: cover;
+    text-align: right;
+}
+.pp{
+    font-size: 30px;
+    font-family:Wingdings;
+    color: pink;
+}
+a{
+    color:#000000;
+    font-family: Tahoma;
+}
+
